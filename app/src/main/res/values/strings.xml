@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Drink Reminder MAP</string>
     <string name="water_detected">Water detected! Approximate fill: %1$s%%</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
